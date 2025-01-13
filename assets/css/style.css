@@ -23,12 +23,14 @@ body {
 .user-profile {
     width: 200px;
     height: 200px;
-    background-position: center;
-    background-size: cover;
+    background-position: 10px 0;
+    background-size: contain;
     border-radius: 50%;
     margin: 2px;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.3);
     border: 1px solid #c2c2c2;
+    filter: grayscale(100%);
+
 }
 .profile-info h3{
     text-align: center;
