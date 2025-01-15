@@ -5,15 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daniel Berg</title>
 
-    <script src="https://cdn.tailwindcss.com"></script>
+ 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
     <link href="https://fonts.googleapis.com/css2?family=Chivo:ital@0;1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link href="assets/css/featherlight.css" rel="stylesheet">
+    <link href="assets/css/ihover.min.css" rel="stylesheet">
 
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <script src="assets/js/featherlight.js"></script>
 </head>
 <body>
   
@@ -33,86 +40,175 @@
             <a href="https://github.com/danielbergmorais/" rel="Github" target="_blank">
                 <i class="fa-brands fa-square-github"></i>
             </a>
-            <a href="http://github.com" rel="Portifolio">
+            <!-- <a href="http://github.com" rel="Portifolio">
                 <i class="fa-solid fa-laptop-code"></i>
-            </a>
+            </a> -->
         </div>
     </div>
 
     <h1 class="text-3xl font-bold underline poppins-bold">
       Diplomas
     </h1>
-    <div class="certificates flex flex-wrap justify-center pl-20 pr-20 grid grid-cols-4">
-        <div class="card">
-            <div class="card-front">
-                <div class="img-holder" style="background-image: url('assets/img/certificates/automacao-de-sistemas.jpg');"></div>
-            </div>
-            <div class="card-back">
-                <div class="card-content">
-                    <h3>Bacharelado em Sistemas da Informação</h3>
-                    <h4>UNIRN</h4>
-                </div>
-            </div>
-        </div>
 
-       
+    <div class="certificates flex flex-wrap justify-center pb-20 pt-10 grid grid-cols-4">
+
+        <div class="card">
+           <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/bsi.png">
+            <div class="img"><img src="assets/img/certificates/bsi.png" alt="Diploma - Bacharelado em sistemas de informação"></div>
+            <div class="info">
+                <h3>UNIRN</h3>
+                <p>Bacharelado em sistemas de informação</p>
+            </div>
+            </a>
+           </div>   
+        </div>
         
     </div>
+
     <h1 class="text-3xl font-bold underline poppins-bold">
         Certificados
-      </h1>
-      <div class="certificates flex flex-wrap justify-center pl-20 pr-20 grid xl:grid-cols-4 sm:grid-cols-2 grid-cols-1 ">
-          <div class="card">
-              <div class="card-front">
-                  <div class="img-holder" style="background-image: url('assets/img/certificates/symfony.png');"></div>
-              </div>
-              <div class="card-back">
-                  <div class="card-content">
-                      <h3>Symfony API</h3>
-                      <h4>Alura</h4>
-                  </div>
-              </div>
-          </div>
-  
-          <div class="card">
-              <div class="card-front">
-                  <div class="img-holder" style="background-image: url('assets/img/certificates/typescript.png');"></div>
-              </div>
-              <div class="card-back">
-                  <div class="card-content">
-                      <h3>React com Typescript</h3>
-                      <h4>Origamid</h4>
-                  </div>
-              </div>
-          </div>
-  
-          <div class="card">
-              <div class="card-front">
-                  <div class="img-holder" style="background-image: url('assets/img/certificates/automacao-de-sistemas.jpg');"></div>
-              </div>
-              <div class="card-back">
-                  <div class="card-content">
-                      <h3>Automação de Sistemas</h3>
-                      <h4>Aprenda Mais - IFRS</h4>
-                  </div>
-              </div>
-          </div>
-  
-          <div class="card">
-              <div class="card-front">
-                  <div class="img-holder" style="background-image: url('assets/img/certificates/automacao.jpg');"></div>
-              </div>
-              <div class="card-back">
-                  <div class="card-content">
-                      <h3>Automação Ponta a Ponta</h3>
-                      <h4>Industrialismo</h4>
-                  </div>
-              </div>
-          </div>
-  
-      </div>
+    </h1>
+    <div class="certificates flex flex-wrap justify-center pb-20 grid xl:grid-cols-4 sm:grid-cols-2 grid-cols-1 ">
 
-    <div class="flex flex-wrap justify-center mt-10 pl-10 pr-10 grid   lg:grid-cols-6 md:grid-cols-3 sm:grid-cols-3 xs:grid-cols-1">
+        <div class="card mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.png">
+                <div class="img"><img src="assets/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.png" 
+                    alt="Certificado - Introdução ao dimensionamento de condutores elétricos"></div>
+                <div class="info">
+                    <h3>FATEC SENAI ÍTALO BOLOGNA</h3>
+                    <p>Introdução ao dimensionamento de condutores elétricos</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+
+        <div class="card mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.png">
+                <div class="img"><img src="assets/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.png" 
+                    alt="Certificado - Fundamentos da montagem e dimensionamento de condutores elétricos"></div>
+                <div class="info">
+                    <h3>FACULDADE DE TECNOLOGIA SENAI DE DESENVOLIMENTO GERENCIAL</h3>
+                    <p>Fundamentos da montagem e dimensionamento de condutores elétricos</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+        
+        <div class="card mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.png">
+                <div class="img"><img src="assets/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.png"
+                        alt="Certificado - Fundamentos de aterramento elétrico"></div>
+                <div class="info">
+                    <h3>ESCOLA SENAI APARECIDA</h3>
+                    <p>Fundamentos de aterramento elétrico</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+        
+        <div class="card  mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/previsao-de-cargas-eletricas.png">
+                <div class="img"><img src="assets/img/certificates/eletrical/previsao-de-cargas-eletricas.png"
+                        alt="Certificado - Previsão de cargas elétricas: Fundamentos da NBR 5410"></div>
+                <div class="info">
+                    <h3>ESCOLA SENAI ITUMBIARA</h3>
+                    <p>Previsão de cargas elétricas: Fundamentos da NBR 5410</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+
+        <div class="card mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/eletricista-residencial.jpg">
+                <div class="img"><img src="assets/img/certificates/eletrical/eletricista-residencial.jpg" 
+                    alt="Certificado - Eletricista Residencial"></div>
+                <div class="info">
+                    <h3>UDEMY</h3>
+                    <p>Eletricista Residencial</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+
+        <div class="card mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/automacao-de-sistemas.jpg">
+                <div class="img"><img src="assets/img/certificates/eletrical/automacao-de-sistemas.jpg" 
+                    alt="Certificado - Automação de Sistemas"></div>
+                <div class="info">
+                    <h3>APRENDA MAIS - IFRS</h3>
+                    <p>Automação de Sistemas</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+
+        <div class="card mt-8">
+        <div class="ih-item square colored effect6 from_top_and_bottom">
+            <a href="#" data-featherlight="assets/img/certificates/eletrical/automacao.jpg">
+                <div class="img"><img src="assets/img/certificates/eletrical/automacao.jpg" alt="Certificado Automação de Sistemas"></div>
+                <div class="info">
+                    <h3>INDUSTRIALISMO</h3>
+                    <p>Desafio automação de ponta a ponta</p>
+                </div>
+            </a>
+        </div>   
+        </div>
+
+    </div>
+    <h1 class="text-3xl font-bold underline poppins-bold">
+        Certificados TI
+    </h1>
+    <div class="certificates flex flex-wrap justify-center pb-20 grid xl:grid-cols-4 sm:grid-cols-2 grid-cols-1 ">
+       
+        <div class="card mt-8">
+            <div class="ih-item square colored effect6 from_top_and_bottom">
+                <a href="#" data-featherlight="assets/img/certificates/ti/symfony.png">
+                    <div class="img"><img src="assets/img/certificates/ti/symfony.png" alt="Certificado - Symfony Criação de uma API Restful"></div>
+                    <div class="info">
+                        <h3>ALURA</h3>
+                        <p>Symfony Criação de uma API Restful</p>
+                    </div>
+                </a>
+            </div>   
+        </div>
+
+        <div class="card mt-8">
+            <div class="ih-item square colored effect6 from_top_and_bottom">
+                <a href="#" data-featherlight="assets/img/certificates/ti/wordpress-rest-api.png">
+                    <div class="img"><img src="assets/img/certificates/ti/wordpress-rest-api.png" alt="Certificado - WordPress REST API"></div>
+                    <div class="info">
+                        <h3>ORIGAMID</h3>
+                        <p>WordPress REST API</p>
+                    </div>
+                </a>
+            </div>   
+        </div>
+
+        <div class="card mt-8">
+            <div class="ih-item square colored effect6 from_top_and_bottom">
+                <a href="#" data-featherlight="assets/img/certificates/ti/typescript.png">
+                    <div class="img"><img src="assets/img/certificates/ti/typescript.png" alt="Certificado - React com Typescript"></div>
+                    <div class="info">
+                        <h3>ORIGAMID</h3>
+                        <p>React com Typescript</p>
+                    </div>
+                </a>
+            </div>   
+        </div>
+
+    </div>
+
+    <h1 class="text-3xl font-bold underline poppins-bold">
+        Tecnologias
+    </h1>
+    <div class="flex flex-wrap justify-center mt-10  grid   lg:grid-cols-6 md:grid-cols-3 sm:grid-cols-3 xs:grid-cols-1">
 
         <!-- PHP -->
         <div class="flip-card p-4 max-w-sm">

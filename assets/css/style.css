@@ -30,8 +30,11 @@ body {
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.3);
     border: 1px solid #c2c2c2;
     filter: grayscale(100%);
-
 }
+.user-profile:hover {
+    filter: grayscale(0);
+}
+
 .profile-info h3{
     text-align: center;
 }
@@ -48,6 +51,10 @@ body {
 .profile-links i{
     font-size: 66px;
     margin-right: 20px;
+}
+.photo-holder {
+    display: flex;
+    justify-content: center;
 }
 
 .flip-card {
@@ -208,4 +215,12 @@ body {
     height: 200px;
     width: 300px;
     border-radius: 10px;
+}
+
+.ih-item.square.effect6 .info h3 {
+    font-size: 18px !important;
+}
+.ih-item.square.effect6 .info p {
+    color: white !important;
+    font-size: 14px !important;
 }
