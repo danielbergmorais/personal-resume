@@ -1,19 +1,37 @@
-console.log('algo')
-
 const insertCertificate = (value, id) =>{
-    $(id).append(`
-        <div class="ih-item square colored effect6 from_top_and_bottom m-3" >
-            <a href="#" data-featherlight="${value.image}">
-                <div class="img">
-                    <img src="${value.image}" alt="Diploma - Bacharelado em sistemas de informação">
+
+    if(id == '#tech') {
+        $(id).append(`
+            <div class="flip-card p-4 max-w-sm">
+                <div class="flip-content">
+                    <div class="flip-front">
+                        <div class="img-holder" style="background-image: url('${value.image}');"></div>
+                    </div>
+                    <div class="flip-back flex-col">
+                        <div class="img-holder" style="background-image: url('${value.icon}');"></div>
+                        <strong>${value.name}</strong>
+                        <span>${value.description}</span>
+                    </div>
                 </div>
-                <div class="info">
-                    <h3>${value.course}</h3>
-                    <p>${value.institution}</p>
-                </div>
-            </a>
-        </div>
-        `)
+            </div>
+            `)
+    
+    } else {
+        $(id).append(`
+            <div class="ih-item square colored effect6 from_top_and_bottom m-3" >
+                <a href="#" data-featherlight="${value.image}">
+                    <div class="img">
+                        <img src="${value.image}" alt="Diploma - Bacharelado em sistemas de informação">
+                    </div>
+                    <div class="info">
+                        <h3>${value.course}</h3>
+                        <p>${value.institution}</p>
+                    </div>
+                </a>
+            </div>
+            `)
+    
+    }
 }
 
 fetch("assets/data/certificates.json")
@@ -21,4 +39,5 @@ fetch("assets/data/certificates.json")
   .then((data) => {
     data.dev.diplom.map( (value) => insertCertificate(value, '#diplom'))
     data.dev.certificates.map( (value) => insertCertificate(value, '#certificates'))
+    data.dev.tech.map( (value) => insertCertificate(value, '#tech'))
   });

@@ -23,6 +23,116 @@
                 "course": "React com Typescript",
                 "image": "assets/img/certificates/ti/typescript.png"
             }
+        ],
+        "tech": [
+            {
+                "image": "assets/img/tech/php.svg",
+                "icon":  "assets/img/tech/php-icon.svg",
+                "name": "PHP",
+                "description": "Programação com Laravel e Cake"
+            },
+            {
+                "image": "assets/img/tech/js.svg",
+                "icon": "assets/img/tech/js-icon.svg",
+                "name": "Javascript",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/ts.svg",
+                "icon": "assets/img/tech/ts-icon.svg",
+                "name": "Typescript",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/nodejs.svg",
+                "icon": "assets/img/tech/nodejs-icon.svg",
+                "name": "NodeJS",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/adonisjs.svg",
+                "icon": "assets/img/tech/adonisjs-icon.svg",
+                "name": "Adonis JS",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/bootstrap.svg",
+                "icon": "assets/img/tech/bootstrap-icon.svg",
+                "name": "Bootstrap",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/tailwindcss.svg",
+                "icon": "assets/img/tech/tailwindcss-icon.svg",
+                "name": "Tailwind",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/laravel.svg",
+                "icon": "assets/img/tech/laravel-icon.svg",
+                "name": "Laravel",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/wordpress.svg",
+                "icon": "assets/img/tech/wordpress-icon.svg",
+                "name": "Wordpress",
+                "description": ""
+            },
+            {
+                "image": "assets/img/tech/aws.svg",
+                "icon": "assets/img/tech/aws-icon.svg",
+                "name": "AWS",
+                "description": "Hospedagens Ec2 e S3"
+            },
+            {
+                "image": "assets/img/tech/docker.svg",
+                "icon": "assets/img/tech/docker-icon.svg",
+                "name": "Docker",
+                "description": "Conteiners"
+            },
+            {
+                "image": "assets/img/tech/jenkins.svg",
+                "icon": "assets/img/tech/jenkins-icon.svg",
+                "name": "Jenkins",
+                "description": "Automatização de Processos"
+            },
+            {
+                "image": "assets/img/tech/reactjs.svg",
+                "icon": "assets/img/tech/reactjs-icon.svg",
+                "name": "React JS",
+                "description": "Front End Interativo"
+            },
+            {
+                "image": "assets/img/tech/angular.svg",
+                "icon": "assets/img/tech/angular-icon.svg",
+                "name": "Angular JS",
+                "description": "Front End Interativo"
+            },
+            {
+                "image": "assets/img/tech/ionic.svg",
+                "icon": "assets/img/tech/ionic-icon.svg",
+                "name": "Ionic",
+                "description": "Aplicativos móveis hibridos"
+            },
+            {
+                "image": "assets/img/tech/jest.svg",
+                "icon": "assets/img/tech/jest-icon.svg",
+                "name": "Jest",
+                "description": "Testes automatizados"
+            },
+            {
+                "image": "assets/img/tech/mysql.svg",
+                "icon": "assets/img/tech/mysql-icon.svg",
+                "name": "MySQL",
+                "description": "ancos de dados"
+            },
+            {
+                "image": "assets/img/tech/pgsql.svg",
+                "icon": "assets/img/tech/pgsql-icon.svg",
+                "name": "PostgreSQL",
+                "description": "Bancos de dados"
+            }
         ]
     },
     "eletrical": {
