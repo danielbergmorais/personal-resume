@@ -1,0 +1,74 @@
+{
+    "dev" : {
+        "diplom": [
+            {
+                "institution": "UNIRN",
+                "course": "Bacharelado em sistemas de informação",
+                "image": "assets/img/certificates/bsi.png"
+            }
+        ],
+        "certificates": [
+            {
+                "institution": "ALURA",
+                "course": "Symfony Criação de uma API Restful",
+                "image": "assets/img/certificates/ti/symfony.png"
+            },
+            {
+                "institution": "ORIGAMID",
+                "course": "WordPress REST API",
+                "image": "assets/img/certificates/ti/wordpress-rest-api.png"
+            },
+            {
+                "institution": "ORIGAMID",
+                "course": "React com Typescript",
+                "image": "assets/img/certificates/ti/typescript.png"
+            }
+        ]
+    },
+    "eletrical": {
+        "diplom": [
+            {
+                "institution": "SENAI",
+                "course": "Técnico em Eletrotécnica",
+                "image": "assets/img/certificates/eletrical/automacao.jpg"
+            }
+        ],
+        "certificates": [
+            {
+                "institution": "FATEC SENAI ÍTALO BOLOGNA",
+                "course": "Introdução ao dimensionamento de condutores elétricos",
+                "image": "assets/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.png"
+            },
+            {
+                "institution": "FACULDADE DE TECNOLOGIA SENAI DE DESENVOLIMENTO GERENCIAL",
+                "course": "Fundamentos da montagem e dimensionamento de condutores elétricos",
+                "image": "assets/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.png"
+            },
+            {
+                "institution": "ESCOLA SENAI APARECIDA",
+                "course": "Fundamentos de aterramento elétrico",
+                "image": "assets/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.png"
+            },
+            {
+                "institution": "ESCOLA SENAI ITUMBIARA",
+                "course": "Previsão de cargas elétricas: Fundamentos da NBR 5410",
+                "image": "assets/img/certificates/eletrical/previsao-de-cargas-eletricas.png"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Eletricista Residencial",
+                "image": "assets/img/certificates/eletrical/eletricista-residencial.jpg"
+            },
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Automação de Sistemas",
+                "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
+            },
+            {
+                "institution": "INDUSTRIALISMO",
+                "course": "Desafio automação de ponta a ponta",
+                "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
+            }
+        ]
+    }
+}

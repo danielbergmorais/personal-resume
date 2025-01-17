@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer</title>
+    <link rel="icon" href="assets/img/tech/js-icon.svg">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+    <link href="assets/css/featherlight.css" rel="stylesheet">
+    <link href="assets/css/ihover.min.css" rel="stylesheet">
+
+    <link href="assets/css/code.css" rel="stylesheet">
+    <link href="assets/css/button.css" rel="stylesheet">
+    <script src="assets/js/featherlight.js"></script>
+</head>
+<body>
+    <div class="main">
+       <section class="flex md:flex-row flex-col justify-center">
+            <div class="profile pt-10 md:grid grid-col md:grid-cols-4 justify-center">
+                <div class="photo h-60  content-center justify-center flex">
+                    <img src="assets/img/myself.jpg" alt="" class="rounded-full w-48 h-48 grayscale" />
+                </div>
+                <div class="name content-center">
+                    <span class="canvas-container">
+                        <span class="canvas-wrap">
+                            <canvas id="the-canvas"></canvas>
+                        </span>
+                        </span>
+                    <h1 class="text-3xl hidden" >Daniel Berg</button>
+                    <h2 class="text-lg hidden">Web Developer</h2>
+                </div>
+                <div class="icon h-50 md:grid md:grid-cols-3 flex justify-center content-center">
+                    <div class="">
+                        <a href="https://www.linkedin.com/in/daniel-berg-morais/" class="mr-5" rel="Linkedin" target="_blank">
+                            <i class="fa-brands fa-linkedin text-5xl"></i>
+                        </a>
+                    </div>
+                    <div class="">
+                        <a href="https://github.com/danielbergmorais/" rel="Github" target="_blank">
+                            <i class="fa-brands fa-square-github text-5xl"></i>
+                        </a>
+                    </div>
+                    
+                </div>
+                <div class="links h-50 justify-center flex pt-10 text-center md:text-left">
+                    <div class="contact grid ">
+                        <div class="flex">
+                            <a href="tel:+5584987480393" class="my-auto m-0">
+                                <i class="fa-brands fa-whatsapp"></i> 84 98748-0393
+                            </a>
+                        </div>
+                        <div class="flex">
+                            <a href="mailto:danielbergmorais@gmail.com">
+                                <i class="fa-regular fa-envelope"></i> danielbergmorais@gmail.com
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </section>
+       <section>
+            <div class="ml-10 mt-5">
+                <h3 class="text-xl">Diplomas</h3>
+            </div>
+            <div class="flex p-5" id="diplom">
+            </div>
+            
+       </section>
+       <section>
+            <div class="ml-10">
+                <h3 class="text-xl">Certificados</h3>
+            </div>
+            <div class="flex p-5 flex-col md:flex-row" id="certificates">
+            </div>
+       </section>
+       <section>
+            <div class="m-10"></div>
+       </section>
+    </div>
+    <script src="assets/js/code.js" type="module"></script>
+    <script src="assets/js/data.js" type="module"></script>
+</body>
+</html>
