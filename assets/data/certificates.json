@@ -47,37 +47,37 @@
                 "image": "assets/img/tech/nodejs.svg",
                 "icon": "assets/img/tech/nodejs-icon.svg",
                 "name": "NodeJS",
-                "description": ""
+                "description": "Backend API"
             },
             {
                 "image": "assets/img/tech/adonisjs.svg",
                 "icon": "assets/img/tech/adonisjs-icon.svg",
                 "name": "Adonis JS",
-                "description": ""
+                "description": "Backend API"
             },
             {
                 "image": "assets/img/tech/bootstrap.svg",
                 "icon": "assets/img/tech/bootstrap-icon.svg",
                 "name": "Bootstrap",
-                "description": ""
+                "description": "Estrutura Frontend"
             },
             {
                 "image": "assets/img/tech/tailwindcss.svg",
                 "icon": "assets/img/tech/tailwindcss-icon.svg",
                 "name": "Tailwind",
-                "description": ""
+                "description": "Estrutura Frontend"
             },
             {
                 "image": "assets/img/tech/laravel.svg",
                 "icon": "assets/img/tech/laravel-icon.svg",
                 "name": "Laravel",
-                "description": ""
+                "description": "Sites e Sistemas Web"
             },
             {
                 "image": "assets/img/tech/wordpress.svg",
                 "icon": "assets/img/tech/wordpress-icon.svg",
                 "name": "Wordpress",
-                "description": ""
+                "description": "Blogs e Sites"
             },
             {
                 "image": "assets/img/tech/aws.svg",
@@ -89,7 +89,7 @@
                 "image": "assets/img/tech/docker.svg",
                 "icon": "assets/img/tech/docker-icon.svg",
                 "name": "Docker",
-                "description": "Conteiners"
+                "description": "Containers"
             },
             {
                 "image": "assets/img/tech/jenkins.svg",
@@ -101,13 +101,13 @@
                 "image": "assets/img/tech/reactjs.svg",
                 "icon": "assets/img/tech/reactjs-icon.svg",
                 "name": "React JS",
-                "description": "Front End Interativo"
+                "description": "Frontend Interativo"
             },
             {
                 "image": "assets/img/tech/angular.svg",
                 "icon": "assets/img/tech/angular-icon.svg",
                 "name": "Angular JS",
-                "description": "Front End Interativo"
+                "description": "Frontend Interativo"
             },
             {
                 "image": "assets/img/tech/ionic.svg",
@@ -125,7 +125,7 @@
                 "image": "assets/img/tech/mysql.svg",
                 "icon": "assets/img/tech/mysql-icon.svg",
                 "name": "MySQL",
-                "description": "ancos de dados"
+                "description": "Bancos de dados"
             },
             {
                 "image": "assets/img/tech/pgsql.svg",

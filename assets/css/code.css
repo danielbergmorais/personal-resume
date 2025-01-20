@@ -79,3 +79,94 @@ canvas {
     color: white !important;
     font-size: 14px !important;
 }
+
+
+.blinker {
+	opacity: 1;
+	margin-bottom: -2px;
+	height: 15px;
+	margin-left: -5px;
+	border-left: 7px solid white;
+	animation: blinker 0.9s steps(2, start) infinite;
+  }
+  
+  @keyframes blinker {
+	to { 
+	  visibility: hidden; 
+	}
+  }
+  
+
+  .flip-card {
+    background-color: transparent;
+    width: 200px;
+    height: 200px;
+    perspective: 1000px;
+    background-color: transparent;
+}
+
+.flip-card:focus {
+    outline: 0;
+}
+
+.flip-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    border-radius: 10px;
+}
+
+.flip-card:hover .flip-content,
+.flip-card:focus .flip-content {
+  transform: rotateY(180deg);
+}
+
+.flip-front,
+.flip-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.flip-front {
+    background: linear-gradient(to left, #fff, #e2e1e1);
+    color: black;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flip-front .img-holder {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 60px;
+    width: 120px;
+}
+
+.flip-back {
+    background: linear-gradient(to right, #e2e1e1, #fff);
+    color: #22053d;
+    transform: rotateY(180deg);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flip-back
+.img-holder {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 60px;
+    width: 120px;
+}
