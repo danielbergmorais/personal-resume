@@ -170,6 +170,11 @@
                 "image": "assets/img/certificates/eletrical/eletricista-residencial.jpg"
             },
             {
+                "institution": "UDEMY",
+                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
+                "image": "assets/img/certificates/eletrical/calculos-dimensionamento.jpg"
+            },
+            {
                 "institution": "APRENDA MAIS - IFRS",
                 "course": "Automação de Sistemas",
                 "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
@@ -177,7 +182,7 @@
             {
                 "institution": "INDUSTRIALISMO",
                 "course": "Desafio automação de ponta a ponta",
-                "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
+                "image": "assets/img/certificates/eletrical/automacao.jpg"
             }
         ]
     }

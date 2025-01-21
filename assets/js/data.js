@@ -42,5 +42,9 @@ fetch("assets/data/certificates.json")
     data.dev.diplom.map( (value) => insertCertificate(value, '#diplom'))
     data.dev.certificates.map( (value) => insertCertificate(value, '#certificates'))
     data.dev.tech.map( (value) => insertCertificate(value, '#tech'))
+
+    data.eletrical.diplom.map( (value) => insertCertificate(value, '#diplomTec'))
+    data.eletrical.certificates.map( (value) => insertCertificate(value, '#certificatesTec'))
+
     lazyLoadInstance.update();
   });
