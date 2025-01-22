@@ -22,6 +22,11 @@
                 "institution": "ORIGAMID",
                 "course": "React com Typescript",
                 "image": "assets/img/certificates/ti/typescript.png"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Teste de Software: Seja um Expert e Impulsione Sua Carreira",
+                "image": "assets/img/certificates/ti/teste-de-software-seja-expert.jpg"
             }
         ],
         "tech": [
