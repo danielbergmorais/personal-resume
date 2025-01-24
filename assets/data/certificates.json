@@ -170,6 +170,11 @@
                 "image": "assets/img/certificates/eletrical/previsao-de-cargas-eletricas.png"
             },
             {
+                "institution": "SENAI MINEIROS",
+                "course": "Iniciação profissional em Segurança do Trabalho",
+                "image": "assets/img/certificates/eletrical/seguranca-do-trabalho.jpg"
+            },
+            {
                 "institution": "UDEMY",
                 "course": "Eletricista Residencial",
                 "image": "assets/img/certificates/eletrical/eletricista-residencial.jpg"
