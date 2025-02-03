@@ -27,6 +27,11 @@
                 "institution": "UDEMY",
                 "course": "Teste de Software: Seja um Expert e Impulsione Sua Carreira",
                 "image": "assets/img/certificates/ti/teste-de-software-seja-expert.jpg"
+            },
+            {
+                "institution": "IFMS",
+                "course": "Introdução à inteligência Artificial",
+                "image": "assets/img/certificates/ti/introducao-a-inteligencia-artificial.png"
             }
         ],
         "tech": [
