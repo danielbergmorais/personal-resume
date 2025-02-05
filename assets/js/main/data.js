@@ -18,10 +18,10 @@ const insertCertificate = (value, id) =>{
     
     } else {
         $(id).append(`
-            <div class="ih-item square colored effect6 from_top_and_bottom m-3" >
+            <div class="ih-item square colored effect6 from_top_and_bottom m-3 " >
                 <a href="#" data-featherlight="${value.image}">
                     <div class="img">
-                        <img src="" data-src="${value.image}" class="lazy" alt="${value.institution} - ${value.course}">
+                        <img data-featherlight-gallery src="" data-src="${value.image}" class="lazy" alt="${value.institution} - ${value.course}">
                     </div>
                     <div class="info">
                         <h3>${value.course}</h3>

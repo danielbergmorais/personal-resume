@@ -28,6 +28,7 @@ var data = [
   
   const typingFn = (paramId, paramText) => {
     let element = document.getElementById(paramId)
+    if(element) {
     let devTypeText = paramText
     // type code
     var i = 0, isTag, text;
@@ -41,6 +42,7 @@ var data = [
       if (isTag) return type();
       setTimeout(type, 100);
     })();
+   } 
   }
 
     setTimeout( () => {

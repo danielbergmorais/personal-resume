@@ -20,8 +20,18 @@
             },
             {
                 "institution": "ORIGAMID",
+                "course": "Automação Front-End com NPM",
+                "image": "assets/img/certificates/ti/automacao-front-end-com-npm.png"
+            },
+            {
+                "institution": "ORIGAMID",
                 "course": "React com Typescript",
                 "image": "assets/img/certificates/ti/typescript.png"
+            },
+            {
+                "institution": "ORIGAMID",
+                "course": "React Completo",
+                "image": "assets/img/certificates/ti/react-completo.png"
             },
             {
                 "institution": "UDEMY",
@@ -194,6 +204,17 @@
                 "course": "Automação de Sistemas",
                 "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
             },
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Energias Renováveis: termodinâmica e tipos",
+                "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
+            },
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Segurança na Eletrotécnica",
+                "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
+            },
+            
             {
                 "institution": "INDUSTRIALISMO",
                 "course": "Desafio automação de ponta a ponta",
