@@ -27,8 +27,7 @@ function compilaPluginSass() {
     .src([
         'assets/scss/plugins/ihover.min.scss',
         'node_modules/featherlight/release/featherlight.min.css',
-        'node_modules/featherlight/release/featherlight.gallery.min.css',
-        'node_modules/font-awesome/css/font-awesome.min.css'
+        'node_modules/featherlight/release/featherlight.gallery.min.css'
     ])
     .pipe(sass({
         style: 'compressed'

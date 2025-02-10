@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daniel Berg</title>
 
- 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Chivo:ital@0;1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
@@ -14,48 +13,42 @@
 
     <link href="dist/css/plugins.css" rel="stylesheet">
     <link href="dist/css/style.css" rel="stylesheet">
-
     
 </head>
 <body>
-  
     <div class="container mx-auto">
-    <div class="profile flex flex-wrap pl-10 mb-10 justify-center grid gap-4 col-span-2">
-        <div class="photo-holder">
-            <div class="user-profile" style="background-image: url('assets/img/myself.jpg');"></div>
+        <div class="profile flex flex-wrap pl-10 mb-10 justify-center grid gap-4 col-span-2">
+            <div class="photo-holder">
+                <div class="user-profile" style="background-image: url('assets/img/myself.jpg');"></div>
+            </div>
+            <div class="profile-info pt-5 text-center">
+                <h1 class="text-3xl font-bold underline poppins-bold">Daniel Berg</h1>
+                <span>Inserir título aqui</span>
+            </div>
+            <div class="profile-links flex flex-wrap justify-center">
+                <a href="https://www.linkedin.com/in/daniel-berg-morais/" rel="Linkedin" target="_blank" class="w-10">
+                    <img src="dist/img/linkedin.svg" width="30px" alt="" >
+                </a>
+                <a href="https://github.com/danielbergmorais/" rel="Github" target="_blank">
+                    <img src="dist/img/github.svg" width="30px" alt="">
+                </a>
+            </div>
         </div>
-        <div class="profile-info pt-5 text-center">
-            <h1 class="text-3xl font-bold underline poppins-bold">Daniel Berg</h1>
-            <span>Inserir título aqui</span>
+
+        <h1 class="text-3xl font-bold underline poppins-bold text-center md:text-left ml-2">
+        Diplomas
+        </h1>
+        <div id="diplomTec" class="certificates flex flex-wrap justify-center pb-20 pt-5 sm:grid md:grid-cols-4 ">
         </div>
-        <div class="profile-links flex flex-wrap justify-center">
-            <a href="https://www.linkedin.com/in/daniel-berg-morais/" rel="Linkedin" target="_blank">
-                <i class="fa-brands fa-linkedin"></i>
-            </a>
-            <a href="https://github.com/danielbergmorais/" rel="Github" target="_blank">
-                <i class="fa-brands fa-square-github"></i>
-            </a>
-            <!-- <a href="http://github.com" rel="Portifolio">
-                <i class="fa-solid fa-laptop-code"></i>
-            </a> -->
+
+        <h1 class="text-3xl font-bold underline poppins-bold text-center md:text-left ml-2">
+            Certificados
+        </h1>
+        <div id="certificatesTec" class="certificates  justify-center grid 2xl:grid-cols-4 xl:grid-cols-3 lg:grid-cols-2 md:grid-cols-2">
         </div>
     </div>
 
-    <h1 class="text-3xl font-bold underline poppins-bold text-center md:text-left ml-2">
-      Diplomas
-    </h1>
-
-    <div id="diplomTec" class="certificates flex flex-wrap justify-center pb-20 pt-5 sm:grid md:grid-cols-4 ">
-    </div>
-
-    <h1 class="text-3xl font-bold underline poppins-bold text-center md:text-left ml-2">
-        Certificados
-    </h1>
-    <div id="certificatesTec" class="certificates  justify-center grid 2xl:grid-cols-4 xl:grid-cols-3 lg:grid-cols-2 md:grid-cols-2">
-    </div>
-</div>
-
-<script src="dist/js/plugins.js" type="module"></script>
-<script src="dist/js/main.js" type="module"></script>
+    <script src="dist/js/plugins.js" type="module"></script>
+    <script src="dist/js/main.js" type="module"></script>
 </body>
 </html>
