@@ -165,65 +165,85 @@
         ],
         "certificates": [
             {
-                "institution": "FATEC SENAI ÍTALO BOLOGNA",
-                "course": "Introdução ao dimensionamento de condutores elétricos",
-                "image": "dist/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.jpg"
-            },
-            {
-                "institution": "FACULDADE DE TECNOLOGIA SENAI DE DESENVOLIMENTO GERENCIAL",
-                "course": "Fundamentos da montagem e dimensionamento de condutores elétricos",
-                "image": "dist/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.jpg"
-            },
-            {
-                "institution": "ESCOLA SENAI APARECIDA",
-                "course": "Fundamentos de aterramento elétrico",
-                "image": "dist/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.jpg"
-            },
-            {
-                "institution": "ESCOLA SENAI ITUMBIARA",
-                "course": "Previsão de cargas elétricas: Fundamentos da NBR 5410",
-                "image": "dist/img/certificates/eletrical/previsao-de-cargas-eletricas.jpg"
-            },
-            {
-                "institution": "SENAI MINEIROS",
-                "course": "Iniciação profissional em Segurança do Trabalho",
-                "image": "dist/img/certificates/eletrical/seguranca-do-trabalho.jpg"
-            },
-            {
-                "institution": "SENAI São Paulo",
-                "course": "Desvendando a Indústria 4.0",
-                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4.jpg"
-            },
-            {
-                "institution": "UDEMY",
-                "course": "Eletricista Residencial",
-                "image": "dist/img/certificates/eletrical/eletricista-residencial.jpg"
-            },
-            {
-                "institution": "UDEMY",
-                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
-                "image": "dist/img/certificates/eletrical/calculos-dimensionamento.jpg"
-            },
-            {
-                "institution": "APRENDA MAIS - IFRS",
-                "course": "Energias Renováveis: termodinâmica e tipos",
-                "image": "dist/img/certificates/eletrical/energias-renovaveis-termodinâmicas-e-tipos.jpg"
-            },
-            {
-                "institution": "APRENDA MAIS - IFRS",
-                "course": "Segurança na Eletrotécnica",
-                "image": "dist/img/certificates/eletrical/seguranca-na-eletrotecnica.jpg"
+                "institution": "INDUSTRIALISMO",
+                "course": "Desafio automação de ponta a ponta",
+                "image": "dist/img/certificates/eletrical/automacao.jpg",
+                "date": "17/11/2024"
             },
             {
                 "institution": "APRENDA MAIS - IFRS",
                 "course": "Automação de Sistemas",
-                "image": "dist/img/certificates/eletrical/automacao-de-sistemas.jpg"
+                "image": "dist/img/certificates/eletrical/automacao-de-sistemas.jpg",
+                "date": "20/11/2024"
             },
             {
-                "institution": "INDUSTRIALISMO",
-                "course": "Desafio automação de ponta a ponta",
-                "image": "dist/img/certificates/eletrical/automacao.jpg"
+                "institution": "FATEC SENAI ÍTALO BOLOGNA",
+                "course": "Introdução ao dimensionamento de condutores elétricos",
+                "image": "dist/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "FACULDADE DE TECNOLOGIA SENAI DE DESENVOLIMENTO GERENCIAL",
+                "course": "Fundamentos da montagem e dimensionamento de condutores elétricos",
+                "image": "dist/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "ESCOLA SENAI APARECIDA",
+                "course": "Fundamentos de aterramento elétrico",
+                "image": "dist/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "ESCOLA SENAI ITUMBIARA",
+                "course": "Previsão de cargas elétricas: Fundamentos da NBR 5410",
+                "image": "dist/img/certificates/eletrical/previsao-de-cargas-eletricas.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Eletricista Residencial",
+                "image": "dist/img/certificates/eletrical/eletricista-residencial.jpg",
+                "date": "15/01/2024"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
+                "image": "dist/img/certificates/eletrical/calculos-dimensionamento.jpg",
+                "date": "21/01/2024"
+            },
+            {
+                "institution": "SENAI MINEIROS",
+                "course": "Iniciação profissional em Segurança do Trabalho",
+                "image": "dist/img/certificates/eletrical/seguranca-do-trabalho.jpg",
+                "date": "23/01/2025"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Desvendando a Indústria 4.0",
+                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4.jpg",
+                "date": "06/02/2024"
+            },
+        
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Energias Renováveis: termodinâmica e tipos",
+                "image": "dist/img/certificates/eletrical/energias-renovaveis-termodinâmicas-e-tipos.jpg",
+                "date": "07/02/2024"
+            },
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Segurança na Eletrotécnica",
+                "image": "dist/img/certificates/eletrical/seguranca-na-eletrotecnica.jpg",
+                "date": "10/02/2024"
+            },
+            {
+                "institution": "SENAR",
+                "course": "Energia Fotovoltaica",
+                "image": "dist/img/certificates/eletrical/energia-fotovoltaica.jpg",
+                "date": "10/02/2024"
             }
+            
         ]
     }
 }
