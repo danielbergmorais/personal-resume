@@ -4,142 +4,152 @@
             {
                 "institution": "UNIRN",
                 "course": "Bacharelado em sistemas de informação",
-                "image": "assets/img/certificates/bsi.png"
+                "image": "dist/img/certificates/bsi.jpg"
             }
         ],
         "certificates": [
             {
                 "institution": "ALURA",
                 "course": "Symfony Criação de uma API Restful",
-                "image": "assets/img/certificates/ti/symfony.png"
+                "image": "dist/img/certificates/ti/symfony.jpg"
             },
             {
                 "institution": "ORIGAMID",
                 "course": "WordPress REST API",
-                "image": "assets/img/certificates/ti/wordpress-rest-api.png"
+                "image": "dist/img/certificates/ti/wordpress-rest-api.jpg"
+            },
+            {
+                "institution": "ORIGAMID",
+                "course": "Automação Front-End com NPM",
+                "image": "dist/img/certificates/ti/automacao-front-end-com-npm.jpg"
             },
             {
                 "institution": "ORIGAMID",
                 "course": "React com Typescript",
-                "image": "assets/img/certificates/ti/typescript.png"
+                "image": "dist/img/certificates/ti/typescript.jpg"
+            },
+            {
+                "institution": "ORIGAMID",
+                "course": "React Completo",
+                "image": "dist/img/certificates/ti/react-completo.jpg"
             },
             {
                 "institution": "UDEMY",
                 "course": "Teste de Software: Seja um Expert e Impulsione Sua Carreira",
-                "image": "assets/img/certificates/ti/teste-de-software-seja-expert.jpg"
+                "image": "dist/img/certificates/ti/teste-de-software-seja-expert.jpg"
             },
             {
                 "institution": "IFMS",
                 "course": "Introdução à inteligência Artificial",
-                "image": "assets/img/certificates/ti/introducao-a-inteligencia-artificial.png"
+                "image": "dist/img/certificates/ti/introducao-a-inteligencia-artificial.jpg"
             }
         ],
         "tech": [
             {
-                "image": "assets/img/tech/php.svg",
-                "icon":  "assets/img/tech/php-icon.svg",
+                "image": "dist/img/tech/php.svg",
+                "icon":  "dist/img/tech/php-icon.svg",
                 "name": "PHP",
                 "description": "Programação com Laravel e Cake"
             },
             {
-                "image": "assets/img/tech/js.svg",
-                "icon": "assets/img/tech/js-icon.svg",
+                "image": "dist/img/tech/js.svg",
+                "icon": "dist/img/tech/js-icon.svg",
                 "name": "Javascript",
                 "description": ""
             },
             {
-                "image": "assets/img/tech/ts.svg",
-                "icon": "assets/img/tech/ts-icon.svg",
+                "image": "dist/img/tech/ts.svg",
+                "icon": "dist/img/tech/ts-icon.svg",
                 "name": "Typescript",
                 "description": ""
             },
             {
-                "image": "assets/img/tech/nodejs.svg",
-                "icon": "assets/img/tech/nodejs-icon.svg",
+                "image": "dist/img/tech/nodejs.svg",
+                "icon": "dist/img/tech/nodejs-icon.svg",
                 "name": "NodeJS",
                 "description": "Backend API"
             },
             {
-                "image": "assets/img/tech/adonisjs.svg",
-                "icon": "assets/img/tech/adonisjs-icon.svg",
+                "image": "dist/img/tech/adonisjs.svg",
+                "icon": "dist/img/tech/adonisjs-icon.svg",
                 "name": "Adonis JS",
                 "description": "Backend API"
             },
             {
-                "image": "assets/img/tech/bootstrap.svg",
-                "icon": "assets/img/tech/bootstrap-icon.svg",
+                "image": "dist/img/tech/bootstrap.svg",
+                "icon": "dist/img/tech/bootstrap-icon.svg",
                 "name": "Bootstrap",
                 "description": "Estrutura Frontend"
             },
             {
-                "image": "assets/img/tech/tailwindcss.svg",
-                "icon": "assets/img/tech/tailwindcss-icon.svg",
+                "image": "dist/img/tech/tailwindcss.svg",
+                "icon": "dist/img/tech/tailwindcss-icon.svg",
                 "name": "Tailwind",
                 "description": "Estrutura Frontend"
             },
             {
-                "image": "assets/img/tech/laravel.svg",
-                "icon": "assets/img/tech/laravel-icon.svg",
+                "image": "dist/img/tech/laravel.svg",
+                "icon": "dist/img/tech/laravel-icon.svg",
                 "name": "Laravel",
                 "description": "Sites e Sistemas Web"
             },
             {
-                "image": "assets/img/tech/wordpress.svg",
-                "icon": "assets/img/tech/wordpress-icon.svg",
+                "image": "dist/img/tech/wordpress.svg",
+                "icon": "dist/img/tech/wordpress-icon.svg",
                 "name": "Wordpress",
                 "description": "Blogs e Sites"
             },
             {
-                "image": "assets/img/tech/aws.svg",
-                "icon": "assets/img/tech/aws-icon.svg",
+                "image": "dist/img/tech/aws.svg",
+                "icon": "dist/img/tech/aws-icon.svg",
                 "name": "AWS",
                 "description": "Hospedagens Ec2 e S3"
             },
             {
-                "image": "assets/img/tech/docker.svg",
-                "icon": "assets/img/tech/docker-icon.svg",
+                "image": "dist/img/tech/docker.svg",
+                "icon": "dist/img/tech/docker-icon.svg",
                 "name": "Docker",
                 "description": "Containers"
             },
             {
-                "image": "assets/img/tech/jenkins.svg",
-                "icon": "assets/img/tech/jenkins-icon.svg",
+                "image": "dist/img/tech/jenkins.svg",
+                "icon": "dist/img/tech/jenkins-icon.svg",
                 "name": "Jenkins",
                 "description": "Automatização de Processos"
             },
             {
-                "image": "assets/img/tech/reactjs.svg",
-                "icon": "assets/img/tech/reactjs-icon.svg",
+                "image": "dist/img/tech/reactjs.svg",
+                "icon": "dist/img/tech/reactjs-icon.svg",
                 "name": "React JS",
                 "description": "Frontend Interativo"
             },
             {
-                "image": "assets/img/tech/angular.svg",
-                "icon": "assets/img/tech/angular-icon.svg",
+                "image": "dist/img/tech/angular.svg",
+                "icon": "dist/img/tech/angular-icon.svg",
                 "name": "Angular JS",
                 "description": "Frontend Interativo"
             },
             {
-                "image": "assets/img/tech/ionic.svg",
-                "icon": "assets/img/tech/ionic-icon.svg",
+                "image": "dist/img/tech/ionic.svg",
+                "icon": "dist/img/tech/ionic-icon.svg",
                 "name": "Ionic",
                 "description": "Aplicativos móveis hibridos"
             },
             {
-                "image": "assets/img/tech/jest.svg",
-                "icon": "assets/img/tech/jest-icon.svg",
+                "image": "dist/img/tech/jest.svg",
+                "icon": "dist/img/tech/jest-icon.svg",
                 "name": "Jest",
                 "description": "Testes automatizados"
             },
             {
-                "image": "assets/img/tech/mysql.svg",
-                "icon": "assets/img/tech/mysql-icon.svg",
+                "image": "dist/img/tech/mysql.svg",
+                "icon": "dist/img/tech/mysql-icon.svg",
                 "name": "MySQL",
                 "description": "Bancos de dados"
             },
             {
-                "image": "assets/img/tech/pgsql.svg",
-                "icon": "assets/img/tech/pgsql-icon.svg",
+                "image": "dist/img/tech/pgsql.svg",
+                "icon": "dist/img/tech/pgsql-icon.svg",
                 "name": "PostgreSQL",
                 "description": "Bancos de dados"
             }
@@ -150,54 +160,100 @@
             {
                 "institution": "SENAI",
                 "course": "Técnico em Eletrotécnica",
-                "image": "assets/img/certificates/eletrical/automacao.jpg"
+                "image": "dist/img/certificates/eletrical/automacao.jpg"
             }
         ],
         "certificates": [
             {
-                "institution": "FATEC SENAI ÍTALO BOLOGNA",
-                "course": "Introdução ao dimensionamento de condutores elétricos",
-                "image": "assets/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.png"
-            },
-            {
-                "institution": "FACULDADE DE TECNOLOGIA SENAI DE DESENVOLIMENTO GERENCIAL",
-                "course": "Fundamentos da montagem e dimensionamento de condutores elétricos",
-                "image": "assets/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.png"
-            },
-            {
-                "institution": "ESCOLA SENAI APARECIDA",
-                "course": "Fundamentos de aterramento elétrico",
-                "image": "assets/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.png"
-            },
-            {
-                "institution": "ESCOLA SENAI ITUMBIARA",
-                "course": "Previsão de cargas elétricas: Fundamentos da NBR 5410",
-                "image": "assets/img/certificates/eletrical/previsao-de-cargas-eletricas.png"
-            },
-            {
-                "institution": "SENAI MINEIROS",
-                "course": "Iniciação profissional em Segurança do Trabalho",
-                "image": "assets/img/certificates/eletrical/seguranca-do-trabalho.jpg"
-            },
-            {
-                "institution": "UDEMY",
-                "course": "Eletricista Residencial",
-                "image": "assets/img/certificates/eletrical/eletricista-residencial.jpg"
-            },
-            {
-                "institution": "UDEMY",
-                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
-                "image": "assets/img/certificates/eletrical/calculos-dimensionamento.jpg"
+                "institution": "INDUSTRIALISMO",
+                "course": "Desafio automação de ponta a ponta",
+                "image": "dist/img/certificates/eletrical/automacao.jpg",
+                "date": "17/11/2024"
             },
             {
                 "institution": "APRENDA MAIS - IFRS",
                 "course": "Automação de Sistemas",
-                "image": "assets/img/certificates/eletrical/automacao-de-sistemas.jpg"
+                "image": "dist/img/certificates/eletrical/automacao-de-sistemas.jpg",
+                "date": "20/11/2024"
             },
             {
-                "institution": "INDUSTRIALISMO",
-                "course": "Desafio automação de ponta a ponta",
-                "image": "assets/img/certificates/eletrical/automacao.jpg"
+                "institution": "FATEC SENAI ÍTALO BOLOGNA",
+                "course": "Introdução ao dimensionamento de condutores elétricos",
+                "image": "dist/img/certificates/eletrical/introducao-ao-dimensionamento-de-condutores-eletricos.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "FACULDADE DE TECNOLOGIA SENAI DE DESENVOLIMENTO GERENCIAL",
+                "course": "Fundamentos da montagem e dimensionamento de condutores elétricos",
+                "image": "dist/img/certificates/eletrical/fundamentos-da-montagem-e-dimensionamento-de-condutores-eletricos.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "ESCOLA SENAI APARECIDA",
+                "course": "Fundamentos de aterramento elétrico",
+                "image": "dist/img/certificates/eletrical/fundamentos-de-aterramento-eletrico.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "ESCOLA SENAI ITUMBIARA",
+                "course": "Previsão de cargas elétricas: Fundamentos da NBR 5410",
+                "image": "dist/img/certificates/eletrical/previsao-de-cargas-eletricas.jpg",
+                "date": "14/01/2025"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Eletricista Residencial",
+                "image": "dist/img/certificates/eletrical/eletricista-residencial.jpg",
+                "date": "15/01/2024"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
+                "image": "dist/img/certificates/eletrical/calculos-dimensionamento.jpg",
+                "date": "21/01/2024"
+            },
+            {
+                "institution": "SENAI MINEIROS",
+                "course": "Iniciação profissional em Segurança do Trabalho",
+                "image": "dist/img/certificates/eletrical/seguranca-do-trabalho.jpg",
+                "date": "23/01/2025"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Desvendando a Indústria 4.0",
+                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4-0.jpg",
+                "date": "06/02/2024"
+            },
+        
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Energias Renováveis: termodinâmica e tipos",
+                "image": "dist/img/certificates/eletrical/energias-renovaveis-termodinâmicas-e-tipos.jpg",
+                "date": "07/02/2024"
+            },
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Segurança na Eletrotécnica",
+                "image": "dist/img/certificates/eletrical/seguranca-na-eletrotecnica.jpg",
+                "date": "10/02/2024"
+            },
+            {
+                "institution": "SENAR",
+                "course": "Energia Fotovoltaica",
+                "image": "dist/img/certificates/eletrical/energia-fotovoltaica.jpg",
+                "date": "10/02/2024"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Fundamentos da automação de processos industriais",
+                "image": "dist/img/certificates/eletrical/fundamentos-da-automacao-de-processos-industriais.jpg",
+                "date": "11/02/2024"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Desvendando Eletromobilidade",
+                "image": "dist/img/certificates/eletrical/desvendando-eletromobilidade.jpg",
+                "date": "11/02/2024"
             }
         ]
     }

@@ -20,6 +20,7 @@ const DEFAULT_OPTIONS = {
 }
 
 const DigitalRain = function (el, options) {
+  if(!el) return false;
   if (el.tagName !== 'CANVAS') return console.error('Need a canvas element')
   const self = this
   self.__ratio = window.devicePixelRatio || 1
@@ -302,6 +303,7 @@ DigitalRain.prototype.switchWord = function(word, iterations = 1, callback) {
   self.__cb = callback
   self.completed = 0
   self.active = true
+  if(typeof self.play === 'function')
   self.play()
 }
 
