@@ -221,7 +221,7 @@
             {
                 "institution": "SENAI São Paulo",
                 "course": "Desvendando a Indústria 4.0",
-                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4.jpg",
+                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4-0.jpg",
                 "date": "06/02/2024"
             },
         
@@ -242,8 +242,13 @@
                 "course": "Energia Fotovoltaica",
                 "image": "dist/img/certificates/eletrical/energia-fotovoltaica.jpg",
                 "date": "10/02/2024"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Fundamentos da automação de processos industriais",
+                "image": "dist/img/certificates/eletrical/fundamentos-da-automacao-de-processos-industriais.jpg",
+                "date": "11/02/2024"
             }
-            
         ]
     }
 }
