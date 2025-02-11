@@ -248,6 +248,12 @@
                 "course": "Fundamentos da automação de processos industriais",
                 "image": "dist/img/certificates/eletrical/fundamentos-da-automacao-de-processos-industriais.jpg",
                 "date": "11/02/2024"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Desvendando Eletromobilidade",
+                "image": "dist/img/certificates/eletrical/desvendando-eletromobilidade.jpg",
+                "date": "11/02/2024"
             }
         ]
     }
