@@ -43,6 +43,7 @@
                 "course": "Introdução à inteligência Artificial",
                 "image": "dist/img/certificates/ti/introducao-a-inteligencia-artificial.jpg"
             }
+
         ],
         "tech": [
             {
@@ -261,6 +262,11 @@
                 "course": "Veículos Eletricos e Híbridos",
                 "image": "dist/img/certificates/eletrical/veiculos-eletricos-e-hibridos.jpg",
                 "date": "11/02/2024"
+            },
+            {
+                "institution": "Mitsubushi Eletric",
+                "course": "CLP para iniciantes",
+                "image": "dist/img/certificates/eletrical/clp-para-iniciantes.jpg"
             }
         ]
     }
