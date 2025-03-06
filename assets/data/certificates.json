@@ -43,6 +43,7 @@
                 "course": "Introdução à inteligência Artificial",
                 "image": "dist/img/certificates/ti/introducao-a-inteligencia-artificial.jpg"
             }
+
         ],
         "tech": [
             {
@@ -171,10 +172,16 @@
                 "date": "17/11/2024"
             },
             {
-                "institution": "APRENDA MAIS - IFRS",
-                "course": "Automação de Sistemas",
-                "image": "dist/img/certificates/eletrical/automacao-de-sistemas.jpg",
-                "date": "20/11/2024"
+                "institution": "UDEMY",
+                "course": "Eletricista Residencial",
+                "image": "dist/img/certificates/eletrical/eletricista-residencial.jpg",
+                "date": "15/01/2024"
+            },
+            {
+                "institution": "UDEMY",
+                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
+                "image": "dist/img/certificates/eletrical/calculos-dimensionamento.jpg",
+                "date": "21/01/2024"
             },
             {
                 "institution": "FATEC SENAI ÍTALO BOLOGNA",
@@ -201,36 +208,12 @@
                 "date": "14/01/2025"
             },
             {
-                "institution": "UDEMY",
-                "course": "Eletricista Residencial",
-                "image": "dist/img/certificates/eletrical/eletricista-residencial.jpg",
-                "date": "15/01/2024"
-            },
-            {
-                "institution": "UDEMY",
-                "course": "Curso de Cálculo e Dimensionamento de circuitos elétricos",
-                "image": "dist/img/certificates/eletrical/calculos-dimensionamento.jpg",
-                "date": "21/01/2024"
-            },
-            {
                 "institution": "SENAI MINEIROS",
                 "course": "Iniciação profissional em Segurança do Trabalho",
                 "image": "dist/img/certificates/eletrical/seguranca-do-trabalho.jpg",
                 "date": "23/01/2025"
             },
-            {
-                "institution": "SENAI São Paulo",
-                "course": "Desvendando a Indústria 4.0",
-                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4-0.jpg",
-                "date": "06/02/2024"
-            },
-        
-            {
-                "institution": "APRENDA MAIS - IFRS",
-                "course": "Energias Renováveis: termodinâmica e tipos",
-                "image": "dist/img/certificates/eletrical/energias-renovaveis-termodinâmicas-e-tipos.jpg",
-                "date": "07/02/2024"
-            },
+           
             {
                 "institution": "APRENDA MAIS - IFRS",
                 "course": "Segurança na Eletrotécnica",
@@ -238,10 +221,29 @@
                 "date": "10/02/2024"
             },
             {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Automação de Sistemas",
+                "image": "dist/img/certificates/eletrical/automacao-de-sistemas.jpg",
+                "date": "20/11/2024"
+            },
+            {
+                "institution": "APRENDA MAIS - IFRS",
+                "course": "Energias Renováveis: termodinâmica e tipos",
+                "image": "dist/img/certificates/eletrical/energias-renovaveis-termodinâmicas-e-tipos.jpg",
+                "date": "07/02/2024"
+            },
+            
+            {
                 "institution": "SENAR",
                 "course": "Energia Fotovoltaica",
                 "image": "dist/img/certificates/eletrical/energia-fotovoltaica.jpg",
                 "date": "10/02/2024"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Desvendando a Indústria 4.0",
+                "image": "dist/img/certificates/eletrical/desvendando-a-industria-4-0.jpg",
+                "date": "06/02/2024"
             },
             {
                 "institution": "SENAI São Paulo",
@@ -254,6 +256,17 @@
                 "course": "Desvendando Eletromobilidade",
                 "image": "dist/img/certificates/eletrical/desvendando-eletromobilidade.jpg",
                 "date": "11/02/2024"
+            },
+            {
+                "institution": "SENAI São Paulo",
+                "course": "Veículos Eletricos e Híbridos",
+                "image": "dist/img/certificates/eletrical/veiculos-eletricos-e-hibridos.jpg",
+                "date": "11/02/2024"
+            },
+            {
+                "institution": "Mitsubushi Eletric",
+                "course": "CLP para iniciantes",
+                "image": "dist/img/certificates/eletrical/clp-para-iniciantes.jpg"
             }
         ]
     }
