@@ -266,17 +266,22 @@
             {
                 "institution": "Mitsubushi Eletric",
                 "course": "CLP para iniciantes",
-                "image": "dist/img/certificates/eletrical/clp-para-iniciantes.jpg"
+                "image": "dist/img/certificates/eletrical/meb-clp-para-iniciantes.jpg"
             },
             {
                 "institution": "Mitsubushi Eletric",
                 "course": "Programação de CLP Básico",
-                "image": "dist/img/certificates/eletrical/programacao-clp-basico.jpg"
+                "image": "dist/img/certificates/eletrical/meb-programacao-clp-basico.jpg"
             },
             {
                 "institution": "Mitsubushi Eletric",
                 "course": "Comunicação MODBUS/TCP com CLP iQ-F",
-                "image": "dist/img/certificates/eletrical/comunicacao-modbus-tcp-com-clp-iq-f.jpg"
+                "image": "dist/img/certificates/eletrical/meb-comunicacao-modbus-tcp-com-clp-iq-f.jpg"
+            },
+            {
+                "institution": "Mitsubushi Eletric",
+                "course": "Comunicação MODBUS/RTU com CLP iQ-F",
+                "image": "dist/img/certificates/eletrical/meb-comunicacao-modbus-rtu-clp-iq-f.jpg"
             }
         ]
     }
