@@ -282,6 +282,11 @@
                 "institution": "Mitsubushi Eletric",
                 "course": "Comunicação MODBUS/RTU com CLP iQ-F",
                 "image": "dist/img/certificates/eletrical/meb-comunicacao-modbus-rtu-clp-iq-f.jpg"
+            },
+            {
+                "institution": "Mitsubushi Eletric",
+                "course": "Rede CC Link IE Field Basic",
+                "image": "dist/img/certificates/eletrical/meb-red-cc-link-ie-field-basic.jpg"
             }
         ]
     }
