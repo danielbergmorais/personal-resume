@@ -287,6 +287,11 @@
                 "institution": "Mitsubushi Eletric",
                 "course": "Rede CC Link IE Field Basic",
                 "image": "dist/img/certificates/eletrical/meb-red-cc-link-ie-field-basic.jpg"
+            },
+            {
+                "institution": "Mitsubushi Eletric",
+                "course": "Rede MODBUS",
+                "image": "dist/img/certificates/eletrical/meb-rede-modbus.jpg"
             }
         ]
     }
