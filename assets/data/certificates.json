@@ -42,6 +42,11 @@
                 "institution": "IFMS",
                 "course": "Introdução à inteligência Artificial",
                 "image": "dist/img/certificates/ti/introducao-a-inteligencia-artificial.jpg"
+            },
+            {
+                "institution": "SENAI",
+                "course": "Devops com Docker e Jenkins",
+                "image": "dist/img/certificates/ti/devops-com-docker-e-jenkins.jpg"
             }
 
         ],
