@@ -297,6 +297,11 @@
                 "institution": "Mitsubushi Eletric",
                 "course": "Rede MODBUS",
                 "image": "dist/img/certificates/eletrical/meb-rede-modbus.jpg"
+            },
+            {
+                "institution": "SENAI Play",
+                "course": "Automação Inteligente: Programação de CLP",
+                "image": "dist/img/certificates/eletrical/certificado-automacao-inteligente-programacao-de-clp.jpg"
             }
         ]
     }
