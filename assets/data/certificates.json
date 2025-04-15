@@ -302,7 +302,13 @@
                 "institution": "SENAI Play",
                 "course": "Automação Inteligente: Programação de CLP",
                 "image": "dist/img/certificates/eletrical/certificado-automacao-inteligente-programacao-de-clp.jpg"
+            },
+            {
+                "institution": "SENAI Play",
+                "course": "Projetos Elétricos Prediais e Residenciais",
+                "image": "dist/img/certificates/eletrical/certificado-projetos-eletricos-prediais-e-residenciais.jpg"
             }
+
         ]
     }
 }
