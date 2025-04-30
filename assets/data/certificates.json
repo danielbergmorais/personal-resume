@@ -307,8 +307,12 @@
                 "institution": "SENAI Play",
                 "course": "Projetos Elétricos Prediais e Residenciais",
                 "image": "dist/img/certificates/eletrical/certificado-projetos-eletricos-prediais-e-residenciais.jpg"
+            },
+            {
+                "institution": "IFMG",
+                "course": "Automação Industrial - Introdução à Pneumática",
+                "image": "dist/img/certificates/eletrical/automacao-industrial-introducao-a-pneumatica.jpg"
             }
-
         ]
     }
 }

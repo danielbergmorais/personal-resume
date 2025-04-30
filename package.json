@@ -20,6 +20,9 @@
     "local-web-server": "^5.4.0",
     "sass": "^1.83.4"
   },
+  "scripts": {
+    "gulp": "gulp "
+  },
   "browserslist": {
     "production": [
       ">0.2%",
