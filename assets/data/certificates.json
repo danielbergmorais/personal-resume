@@ -312,7 +312,19 @@
                 "institution": "IFMG",
                 "course": "Automação Industrial - Introdução à Pneumática",
                 "image": "dist/img/certificates/eletrical/automacao-industrial-introducao-a-pneumatica.jpg"
+            },
+            {
+                "institution": "FGV",
+                "course": "Linguagem R: Introdução à programação e automação",
+                "image": "dist/img/certificates/eletrical/linguagem-r-introducao-a-programacao-e-automacao.jpg"
+            },
+            {
+                "institution": "FGV",
+                "course": "Introdução à fonte de energia heliotérmica",
+                "image": "dist/img/certificates/eletrical/introducao-a-fonte-de-energia-heliotermica.jpg"
             }
+
+            
         ]
     }
 }
