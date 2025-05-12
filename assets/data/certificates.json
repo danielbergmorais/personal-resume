@@ -314,13 +314,18 @@
                 "image": "dist/img/certificates/eletrical/automacao-industrial-introducao-a-pneumatica.jpg"
             },
             {
+                "institution": "IFMG",
+                "course": "Operador e Programador de Sistemas Automatizados: Práticas Iniciais em CLP",
+                "image": "dist/img/certificates/eletrical/operador-e-programador-de-sistemas-automatizados-praticas-iniciais-em-clp.jpg"
+            },
+            {
                 "institution": "FGV",
-                "course": "Linguagem R: Introdução à programação e automação",
+                "course": "Linguagem R: Introdução à Programação e Automação",
                 "image": "dist/img/certificates/eletrical/linguagem-r-introducao-a-programacao-e-automacao.jpg"
             },
             {
                 "institution": "FGV",
-                "course": "Introdução à fonte de energia heliotérmica",
+                "course": "Introdução à Fonte de Energia Heliotérmica",
                 "image": "dist/img/certificates/eletrical/introducao-a-fonte-de-energia-heliotermica.jpg"
             }
 
