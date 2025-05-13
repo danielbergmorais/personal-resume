@@ -40,8 +40,13 @@
             },
             {
                 "institution": "IFMS",
-                "course": "Introdução à inteligência Artificial",
+                "course": "Introdução à Inteligência Artificial",
                 "image": "dist/img/certificates/ti/introducao-a-inteligencia-artificial.jpg"
+            },
+            {
+                "institution": "IFMS",
+                "course": "Introdução à Ciência de Dados",
+                "image": "dist/img/certificates/ti/introducao-a-ciencia-de-dados.jpg"
             },
             {
                 "institution": "SENAI",
