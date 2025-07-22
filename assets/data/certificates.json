@@ -1,5 +1,5 @@
 {
-    "dev" : {
+    "dev": {
         "diplom": [
             {
                 "institution": "UNIRN",
@@ -53,12 +53,11 @@
                 "course": "Devops com Docker e Jenkins",
                 "image": "dist/img/certificates/ti/devops-com-docker-e-jenkins.jpg"
             }
-
         ],
         "tech": [
             {
                 "image": "dist/img/tech/php.svg",
-                "icon":  "dist/img/tech/php-icon.svg",
+                "icon": "dist/img/tech/php-icon.svg",
                 "name": "PHP",
                 "description": "Programação com Laravel e Cake"
             },
@@ -223,7 +222,6 @@
                 "image": "dist/img/certificates/eletrical/seguranca-do-trabalho.jpg",
                 "date": "23/01/2025"
             },
-           
             {
                 "institution": "APRENDA MAIS - IFRS",
                 "course": "Segurança na Eletrotécnica",
@@ -242,7 +240,6 @@
                 "image": "dist/img/certificates/eletrical/energias-renovaveis-termodinâmicas-e-tipos.jpg",
                 "date": "07/02/2024"
             },
-            
             {
                 "institution": "SENAR",
                 "course": "Energia Fotovoltaica",
@@ -272,6 +269,12 @@
                 "course": "Veículos Eletricos e Híbridos",
                 "image": "dist/img/certificates/eletrical/veiculos-eletricos-e-hibridos.jpg",
                 "date": "11/02/2024"
+            },
+            {
+                "institution": "SENAI",
+                "course": "Desenhista Técnico em Edificações",
+                "image": "dist/img/certificates/eletrical/desenhista-tecnico-em-edificacoes.jpg",
+                "date": "18/07/2025"
             },
             {
                 "institution": "Mitsubushi Eletric",
@@ -333,8 +336,6 @@
                 "course": "Introdução à Fonte de Energia Heliotérmica",
                 "image": "dist/img/certificates/eletrical/introducao-a-fonte-de-energia-heliotermica.jpg"
             }
-
-            
         ]
     }
 }
