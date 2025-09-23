@@ -335,6 +335,11 @@
                 "institution": "FGV",
                 "course": "Introdução à Fonte de Energia Heliotérmica",
                 "image": "dist/img/certificates/eletrical/introducao-a-fonte-de-energia-heliotermica.jpg"
+            },
+            {
+                "institution": "SENAI",
+                "course": "Programação Móvel para IoT",
+                "image": "dist/img/certificates/ti/programacao-movel-para-iot.jpg"
             }
         ]
     }
