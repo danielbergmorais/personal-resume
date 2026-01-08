@@ -175,7 +175,25 @@
         ],
         "certificates": [
             {
-                "institution": "INDUSTRIALISMO",
+                "institution": "Engehall",
+                "course": "NR-10 básico: Segurança em Instalações e Serviços em Eletricidade ",
+                "image": "dist/img/certificates/eletrical/engehall-nr10.jpg",
+                "date": "17/11/2024"
+            },
+            {
+                "institution": "SENAI",
+                "course": "Desenhista Técnico em Edificações",
+                "image": "dist/img/certificates/eletrical/desenhista-tecnico-em-edificacoes.jpg",
+                "date": "18/07/2025"
+            },
+            {
+                "institution": "SENAI",
+                "course": "Desenhista Técnico em Edificações",
+                "image": "dist/img/certificates/eletrical/senai-eletricista-residencial.jpg",
+                "date": "03/11/2025"
+            },
+            {
+                "institution": "Industrialismo",
                 "course": "Desafio automação de ponta a ponta",
                 "image": "dist/img/certificates/eletrical/automacao.jpg",
                 "date": "17/11/2024"
@@ -269,12 +287,6 @@
                 "course": "Veículos Eletricos e Híbridos",
                 "image": "dist/img/certificates/eletrical/veiculos-eletricos-e-hibridos.jpg",
                 "date": "11/02/2024"
-            },
-            {
-                "institution": "SENAI",
-                "course": "Desenhista Técnico em Edificações",
-                "image": "dist/img/certificates/eletrical/desenhista-tecnico-em-edificacoes.jpg",
-                "date": "18/07/2025"
             },
             {
                 "institution": "Mitsubushi Eletric",
